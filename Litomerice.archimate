@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:archimate="http://www.archimatetool.com/archimate" name="www.litomerice.cz" id="2696c178-5cdb-407a-b753-918e879d4f33" version="4.0.0">
+  <folder name="Strategy" id="ce57a66d-b680-4f55-9ce1-d40367814dfb" type="strategy"/>
+  <folder name="Business" id="e4fce6f0-d560-4d71-96c3-c62650eb84f9" type="business"/>
+  <folder name="Application" id="d9d89bf7-3819-458f-8fb4-7aad8f9fe648" type="application"/>
+  <folder name="Technology &amp; Physical" id="41e7821f-55b8-401c-9c52-26be3238f51f" type="technology"/>
+  <folder name="Motivation" id="d7d1e075-aff4-49ee-8df0-959b221f2f63" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="f342857b-9f84-4f1e-bde2-30facb65e668" type="implementation_migration"/>
+  <folder name="Other" id="858aee69-ba51-4ef6-84cd-834f77e64e39" type="other"/>
+  <folder name="Relations" id="8e82c654-f7a6-4d0e-acb7-1f0c2a69cbc2" type="relations"/>
+  <folder name="Views" id="7c2d5edf-23e4-427d-9752-145a39de87bc" type="diagrams">
+    <folder name="AS-IS" id="3bfa890a-82bd-4da6-b64e-f7827ed1e151">
+      <folder name="ASIS_Aplikační_architektura" id="d7b9a139-26bc-4701-bceb-8441f2bf6e38"/>
+      <folder name="ASIS_Business_architektura" id="ea9f0c40-4142-4b0a-ab1b-4736bcb683fc"/>
+      <folder name="ASIS_Technologická_architektura" id="32ab0b97-67d8-4835-82a3-645f50f87394"/>
+      <folder name="ASIS_Čtyřvrstvý_model" id="42000b80-4c4a-4b56-b57b-c8c9a7e6d2fb"/>
+    </folder>
+    <folder name="TO-BE" id="20bc1689-3410-48c2-8508-a6e87bc32e68">
+      <folder name="TOBE_Aplikační_architektura" id="fd858742-a893-4cb7-b754-8e7404850a0a"/>
+      <folder name="TOBE_Business_architektura" id="034f4098-e6f3-4c53-a181-62919c86ba8c"/>
+      <folder name="TOBE_Technologická_architektura" id="30569ddb-e341-4112-b8a0-df16855e6a72"/>
+      <folder name="TOBE_Čtyřvrstvý_model" id="a9147d93-7d5a-488b-8304-e663446c75d6"/>
+    </folder>
+  </folder>
+</archimate:model>
